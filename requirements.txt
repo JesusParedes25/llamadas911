@@ -1,7 +1,7 @@
 access==1.1.9
 affine==2.4.0
 dash==1.21.0
-dash-core-components==1.18.1
+dash-core-components==1.17.1
 dash-html-components==1.1.4
 dash-renderer==1.9.1
 flask==2.1.0
